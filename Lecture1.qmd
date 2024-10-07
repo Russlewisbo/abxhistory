@@ -1,0 +1,271 @@
+---
+format:
+  revealjs:
+    spotlight: true
+    touch: true
+    controls: true
+    pointer: true
+    center-title-slide: false
+    transition: fade
+    transition-speed: fast
+    scrollable: true
+    slide-number: true
+    incremental: false
+    multiplex: true
+    chalkboard: true
+    theme: [default, custom.scss]
+    filters:
+     - highlight-text
+bibliography: references.bib
+lightbox: true
+csl: diagnostic-microbiology-and-infectious-disease.csl
+---
+
+## Lecture 1: History of antibiotic therapy {background-image="images/flemming1.png" background-opacity="0.2"}
+
+<br> <br> <br> <br> <br>
+
+**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
+
+![](unipd.png){.absolute top="550" left="950" width="100" height="100"}
+
+<br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
+
+## Agenda
+
+## Appropriate perspective
+
+<br>
+
+<br>
+
+![](images/spellber1.png){fig-align="center"}
+
+::: aside
+[@spellberg.etal_2008c]
+:::
+
+## Antimicrobial use: bacteria vs. humans {.smaller}
+
+![](images/bugvman.png){fig-align="center" width="600"}
+
++------------------------------------------------------------------+----------------------------------------------------------------+
+| Bacteria                                                         | Humans                                                         |
++==================================================================+================================================================+
+| -   Release: A millionth of a meter or less                      | -   Release: Considerable environmental exposure               |
+| -   Small amounts targeted to special circumstances              | -   Considerable selective pressure for resistant organisms \| |
+| -   Minimal environmental exposure, minimized selective pressure |                                                                |
++------------------------------------------------------------------+----------------------------------------------------------------+
+
+## Chemical warfare in nature
+
+<br>
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/actino.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](images/mellon.png){fig-align="center"}
+:::
+:::::
+
+## Ancient antibiotic therapy
+
+<br>
+
+::::: columns
+::: {.column width="40%"}
+![](images/acient.png){fig-align="center" width="300"}
+:::
+
+::: {.column width="60%"}
+<br>
+
+-   **China**: Moldy tofu to treat inflammation and infection of the skin 
+-   **Egypt**: Moldy bread (Aish baladi) to treat skin lesions 
+-   **Greeks:** Myrrh, wine, honey or caustic substances to treat wound infections 
+:::
+:::::
+
+## Egyptians made tetracycline beer {.smaller}
+
+![](images/nubians.png){fig-align="center" width="800"}
+
+[@nelson.etal_2010c]
+
+## Paul Erlich (1854-1917) and the birth <br> of "modern" antibiotics {.smaller}
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/Erlich1.png)
+:::
+
+::: {.column width="50%"}
+<br>
+
+-   Developed methods for staining tissue made it possible to distinguish between different types of blood cells, which led to the ability to diagnose numerous blood diseases → **"magic bullet hypothesis"**
+
+-   First screening of chemical libraries to identify active antibacterial compounds (synthetic compounds)
+
+-   First effective treatment for syphilis- arsphenamine (Salvarsan) 1909
+
+-   Developed methods for staining tissue made it possible to distinguish between different types of blood cells, which led to the ability to diagnose numerous blood diseases
+
+-   First screening of chemical libraries to identify active antibacterial compounds (synthetic compounds)
+
+-   **First effective treatment for syphilis- arsphenamine (Salvarsan) 1909**
+:::
+:::::
+
+::: aside
+Image: Wellcome Library, London
+:::
+
+## Salvarsan is toxic
+
+::::: columns
+::: {.column width="50%"}
+![](images/salvarsan.png)
+:::
+
+::: {.column width="50%"}
+<br> <br>
+
+Side effects attributed to Salvarsan, included rashes, liver damage, and risks of life and limb, were thought to be caused by improper handling and administration of the relatively insoluble compound
+:::
+:::::
+
+## Alexander Fleming (1881-1955): The serendipitous discovery
+
+::::: columns
+::: {.column width="50%"}
+![](images/fleming2.png)
+:::
+
+::: {.column width="50%"}
+<br> \<<br>
+
+-   Fleming was skilled at administering Salvarsan to patients with syphilis, which led to a small but profitable practice
+-   During World War I, Fleming worked in a wound-research laboratory and discovered that chemical antiseptics do not sterilize jagged wounds, and pus has its own antibacterial powers
+-   After the war, Fleming focused on studying leukocytes and antisepsis, and in 1921 he discovered lysozyme, a substance that causes bacteria to disintegrate, but its effectiveness was limited against disease-causing bacteria
+:::
+:::::
+
+## Discovery of penicillin
+
+<br> <br>
+
+::::: columns
+::: {.column width="50%"}
+<br> <br>
+
+![](images/pcn1.png)
+:::
+
+::: {.column width="50%"}
+![](images/pcn2.png)
+:::
+:::::
+
+::: aside
+[@fleming_1929]
+:::
+
+## Gerhard Domagk (1895-1964): <br> Discovery of sulfonamides
+
+::::: columns
+::: {.column width="40%"}
+![](images/Domagk.png){width="1500"}
+:::
+
+::: {.column width="60%"}
+
+-   Prontosil metabolized to sulfanilamide *in vivo,* initially found to be inactive in microbiological assays
+-   Among the early patients was Domagk’s own 6-year-old daughter, Hildegard, who had contracted a severe streptococcal cellulitis from an accident with a sewing needle
+-   Utterly desperate when the doctor recommended amputation to save his daughter’s life, Domagk treated Hildegard with Prontosil.
+-   Hildegard recovered, but suffered a permanent reddish discolouration of her skin owing to the drug
+:::
+:::::
+
+## Florey, Chain and Heatley: <br>Rediscovery and purification of penicillin
+
+<br>
+
+![](images/Florey.png)
+
+::: aside
+Image: Welcome collection
+:::
+
+## First hints of efficacy
+
+![](images/penicllinpots.png)
+
+::: aside
+[@lobanovska.pilla_2017a]
+:::
+
+## Challenge: How to produce enough penicillin?
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/heatleys_fermenter.png)
+:::
+
+::: {.column width="50%"}
+<br>
+
+-   It was difficult to ferment enough crude peniciilin and to gain samples with few impurities
+-   Heatley’s inventiveness shown both in this device and in his design of a dish to grow the mould at an experimental scale was of great importance to the development of penicillin
+:::
+:::::
+
+::: aside
+Images: Oxford university archive
+:::
+
+## First trials in patients
+
+<br>
+
+![](images/firstpatient.png)
+
+::: .aside
+[@abraham.etal_1941]
+:::
+
+## Clinical response to penicillin
+
+<br>
+
+![](images/response1.png)
+
+::: .aside
+[@abraham.etal_1941]
+:::
+
+## Clinical response to penicillin
+
+<br>
+
+![](images/response2.png)
+
+::: .aside
+[@abraham.etal_1941]
+:::
+
+## References
+
+<br>
+
+Unless otherwise cited, all figures were created using www.biorender.com
+
+<br>
