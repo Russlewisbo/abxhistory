@@ -185,7 +185,6 @@ Side effects attributed to Salvarsan, included rashes, liver damage, and risks o
 :::
 
 ::: {.column width="60%"}
-
 -   Prontosil metabolized to sulfanilamide *in vivo,* initially found to be inactive in microbiological assays
 -   Among the early patients was Domagk’s own 6-year-old daughter, Hildegard, who had contracted a severe streptococcal cellulitis from an accident with a sewing needle
 -   Utterly desperate when the doctor recommended amputation to save his daughter’s life, Domagk treated Hildegard with Prontosil.
@@ -238,7 +237,7 @@ Images: Oxford university archive
 
 ![](images/firstpatient.png)
 
-::: .aside
+::: aside
 [@abraham.etal_1941]
 :::
 
@@ -248,7 +247,7 @@ Images: Oxford university archive
 
 ![](images/response1.png)
 
-::: .aside
+::: aside
 [@abraham.etal_1941]
 :::
 
@@ -258,14 +257,62 @@ Images: Oxford university archive
 
 ![](images/response2.png)
 
-::: .aside
+::: aside
 [@abraham.etal_1941]
+:::
+
+## Industrial scale production of penicillin <br> in the United States {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+<br> <br>
+
+![](images/US1.png){width="800"}
+:::
+
+::: {.column width="50%"}
+![](images/US2.png){width="800"}
+:::
+:::::
+
+::: aside
+Source: US National Library of Medicine
+:::
+
+## Structure of penicillin
+
+::::: columns
+::: {.column width="50%"}
+![](images/Hodgekin.png)
+:::
+
+::: {.column width="50%"}
+<br>
+
+-   Dorothy Hodgkin, a crystallography expert at Oxford University, used X-rays to analyse the structure of various natural products 
+
+-   In 1946, she determined the structure of penicillin, earning her the Nobel Prize in Chemistry in 1964
+
+-   Knowledge of the penicillin structure allowed scientists to modify penicillin, leading to the development of semisynthetic versions with broadened spectrum of activity, incrased stability, reduced toxicity
+:::
+:::::
+
+::: .aside
+Image source: Wikipedia
+:::
+
+## First reports of penicillin resistance
+
+<br>
+
+![](images/pcnr.png){fig-align="center"}
+
+::: .aside
+[@abraham.chain_1940]
 :::
 
 ## References
 
 <br>
-
-Unless otherwise cited, all figures were created using www.biorender.com
 
 <br>
