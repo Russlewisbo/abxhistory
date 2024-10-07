@@ -297,7 +297,7 @@ Source: US National Library of Medicine
 :::
 :::::
 
-::: .aside
+::: aside
 Image source: Wikipedia
 :::
 
@@ -307,8 +307,64 @@ Image source: Wikipedia
 
 ![](images/pcnr.png){fig-align="center"}
 
-::: .aside
+::: aside
 [@abraham.chain_1940]
+:::
+
+## Repeating history
+
+![](images/timeline.png)
+
+::: aside
+[@spagnolo.etal_2021]
+:::
+
+## Discovery of cephalosporins {.smaller}
+
+<br>
+
+::::: columns
+::: {.column width="40%"}
+![](images/Bronzu.png){width="800"}
+:::
+
+::: {.column width="60%"}
+<br>
+
+-   Bronzu performed epidemiological studies of typhoid infection in Cagliari, noted *Salmonella typhi* was not cultured once sewer water was discharged into the sea
+-   Isolated the mold *Cephalosporium* (now known as *Acremonium*) in 1948 from seawater
+-   Noticed that these cultures produced substances (he named mycetin) that were effective against *Salmonella typhi*, the cause of typhoid fever, which had beta-lactamase.
+-   After he failed to find support from Italian government, he sent the fungus to Howard Florey at Oxford
+-   1962: Isolation of cephalosporin C
+:::
+:::::
+
+## First effective therapies for tuberculosis
+
+:::: columns
+::: {.column width="50%"}
+![](images/Wakesman.png)
+
+-   Selman Waksman and his team at Rutgers University discovered multiple antimicrobials in the 1940s, including actinomycin, streptomycin, and neomycin
+
+-   Their research focused on studying fungi and Actinobacteria, with a particular emphasis on soil bacteria belonging to the Streptomyces genus
+
+-   Streptomyces bacteria were found to naturally produce a wide range of antimicrobials, leading to the discovery of these important compounds
+
+-   **Wakesman is credited with introduction of the term “antibiotic”**
+:::
+::::
+
+## TB sanatoriums and impact of effective therapy
+
+![](images/Ringo.png){fig-align="center"}
+
+## Antibiotic discovery: The "Golden age" 
+
+![](images/timeline2.png){width="1800"}
+
+::: .aside
+[@milgroom_2023]
 :::
 
 ## References
