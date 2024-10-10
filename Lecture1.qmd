@@ -387,7 +387,7 @@ Image source: Wikipedia
 [@milgroom_2023]
 :::
 
-## Crises in new antibiotic development
+## Crises in new antibiotic development {.smaller}
 
 <br> <br>
 
@@ -431,6 +431,10 @@ As novel antibiotic discovery began to falter, modification of existing antibiot
 [@Wright2014]
 :::
 
+## β-lactamases
+
+![](images/beta-lactamases.png)
+
 ## Macrolides and tetracyclines
 
 ![](images/tetracyclines.png)
@@ -463,7 +467,7 @@ As novel antibiotic discovery began to falter, modification of existing antibiot
 [@fleischmann1995]
 :::
 
-## ...but the crises got worse
+## ...but the crises still got worse {.smaller}
 
 ![](images/void.png)
 
