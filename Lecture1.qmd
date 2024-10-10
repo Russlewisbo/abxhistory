@@ -539,6 +539,79 @@ Grey dots represent compounds in screening libraries
 
 ![](images/gramnegative.png)
 
+## How should we move forward? \[.smaller\]
+
+::::: columns
+::: {.column width="50%"}
+Targeted screening
+
+-   Specific inhibitors = rationale approach to develop still holds promise
+
+-   Massive advances in synthetic biology (combinatorial biosynthesis, pathways engineering)
+
+-   Development of new “antibiotic-like” chemical scaffolds for screening
+
+-   Experience gained from 30 years of failure:
+
+    -   Knowledge of factors influencing bacterial cell penetration, transport, cellular efflux and protein binding is increasing rapidly- new rules similar to Lipinski 5 to help guide drug design
+
+    -   Use of more “druggable” libraries and combinatorial libraries that mimic natural products
+
+    -   Genetic modification of biosynthetic gene clusters in natural sources (i.e. actinomycetes)
+:::
+
+::: {.column width="50%"}
+Natural product screening
+
+-   Billions of natural selection have optimized structures for protein interactions and antimicrobial activity
+
+-   **Estimated that less than 1% of prokaryotic and 7% of fungal strains have been isolated and cultured**
+
+-   Density and functionality in many natural products enables inhibition of multiple protein targets simultaneously
+
+-   Complex structures make them poor substrates for metabolizing enzymes (superior pharmacokinetics and pharmacodynamics compared to small molecules)
+
+-   More efficient and powerful methods for isolation and de-replication have been developed
+:::
+:::::
+
+## Alternative strategies
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+
+![](images/phage.jpg){width="600"}
+:::
+
+::: {.column width="50%"}
+<br> <br>
+
+-   Antimicrobial peptides (AMPs)
+
+-   Monoclonal antibodies (MAbs)
+
+-   Antibody-antibiotic conjugates
+
+-   Bacteriophages
+
+-   Antisense-based antimicrobials (ASOs)
+
+-   Vaccination/immunotherapy
+:::
+:::::
+
+## Remaining problem: Economics
+
+<br>
+
+![](images/failure.png)
+
+::: aside
+Source: Carb-X
+:::
+
 ## References
 
 <br>
