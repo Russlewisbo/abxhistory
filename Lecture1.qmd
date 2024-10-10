@@ -581,7 +581,6 @@ Natural product screening
 
 ::::: columns
 ::: {.column width="50%"}
-
 ![](images/phage.jpg){width="600"}
 :::
 
