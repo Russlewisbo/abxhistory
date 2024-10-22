@@ -141,15 +141,17 @@ Side effects attributed to Salvarsan, included rashes, liver damage, and risks o
 :::
 :::::
 
-## Alexander Fleming (1881-1955): The serendipitous discovery
+## Alexander Fleming (1881-1955): The serendipitous discovery {.smaller}
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/fleming2.png)
+
+<br> <br>
+![](https://i.makeagif.com/media/7-05-2015/V0HT6G.gif)
 :::
 
 ::: {.column width="50%"}
-<br> \<<br>
+<br> <br> <br>
 
 -   Fleming was skilled at administering Salvarsan to patients with syphilis, which led to a small but profitable practice
 -   During World War I, Fleming worked in a wound-research laboratory and discovered that chemical antiseptics do not sterilize jagged wounds, and pus has its own antibacterial powers
@@ -359,11 +361,11 @@ Image source: Wikipedia
 
 ![](images/Ringo.png){fig-align="center"}
 
-## Antibiotic discovery: The "Golden age" 
+## Antibiotic discovery: The "Golden age"
 
 ![](images/timeline2.png){width="1800"}
 
-::: .aside
+::: aside
 [@milgroom_2023]
 :::
 
