@@ -381,9 +381,6 @@ Image source: Wikipedia
 
 ![](images/Ringo.png){fig-align="center"}
 
-
-## Antibiotic discovery: The "Golden age"
-=======
 ## Antibiotic discovery: "The Golden Age"
 
 
