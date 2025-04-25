@@ -546,11 +546,11 @@ Grey dots represent compounds in screening libraries
 
 ![](images/gramnegative.png)
 
-## How should we move forward? \[.smaller\]
+## How should we move forward? {.smaller}
 
 ::::: columns
 ::: {.column width="50%"}
-Targeted screening
+**Targeted screening**
 
 -   Specific inhibitors = rationale approach to develop still holds promise
 
@@ -568,7 +568,7 @@ Targeted screening
 :::
 
 ::: {.column width="50%"}
-Natural product screening
+**Natural product screening**
 
 -   Billions of natural selection have optimized structures for protein interactions and antimicrobial activity
 
@@ -617,6 +617,9 @@ Natural product screening
 ::: aside
 Source: Carb-X
 :::
+
+## Subsscription models: First approval in Italy
+
 
 ## References
 
