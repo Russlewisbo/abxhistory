@@ -21,7 +21,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Lecture 1: History of antibiotic therapy {background-image="images/flemming1.png" background-opacity="0.2"}
+## Lecture 1: History of antibiotic therapy {background-video="images/background.mp4" background-opacity="0.3" background-video-loop="true"}
 
 <br> <br> <br> <br> <br>
 
@@ -189,7 +189,7 @@ Side effects attributed to Salvarsan, included rashes, liver damage, and risks o
 [@fleming_1929]
 :::
 
-## Gerhard Domagk (1895-1964): <br> Discovery of sulfonamides
+## Gerhard Domagk (1895-1964): <br> Discovery of sulfonamides {.smaller}
 
 ::::: columns
 ::: {.column width="40%"}
@@ -197,6 +197,10 @@ Side effects attributed to Salvarsan, included rashes, liver damage, and risks o
 :::
 
 ::: {.column width="60%"}
+<br>
+
+<br>
+
 -   Prontosil metabolized to sulfanilamide *in vivo,* initially found to be inactive in microbiological assays
 -   Among the early patients was Domagk’s own 6-year-old daughter, Hildegard, who had contracted a severe streptococcal cellulitis from an accident with a sewing needle
 -   Utterly desperate when the doctor recommended amputation to save his daughter’s life, Domagk treated Hildegard with Prontosil.
@@ -204,17 +208,17 @@ Side effects attributed to Salvarsan, included rashes, liver damage, and risks o
 :::
 :::::
 
-## Florey, Chain and Heatley: <br>Rediscovery and purification of penicillin
+## Florey, Chain and Heatley: <br>"Rediscovery" and purification of penicillin
 
 <br>
 
 ![](images/Florey.png)
 
 ::: aside
-Image: Welcome collection
+Images: Welcome collection
 :::
 
-## First hints of efficacy
+## First animal testing of penicillin
 
 ![](images/penicllinpots.png)
 
@@ -257,7 +261,7 @@ Images: Oxford university archive
 
 <br>
 
-![](images/response1.png)
+![](images/response1.png){width="600"}
 
 ::: aside
 [@abraham.etal_1941]
@@ -275,7 +279,7 @@ Images: Oxford university archive
 
 ## Winston Churchill's life saved with <br> sulfapyridine in 1943
 
-<br> <br>
+<br>
 
 ![](images/churchill.png){fig-align="center"}
 
@@ -297,15 +301,15 @@ Images: Oxford university archive
 Source: US National Library of Medicine
 :::
 
-## Structure of penicillin
+## Structure of penicillin {.smaller}
 
 ::::: columns
-::: {.column width="50%"}
-![](images/Hodgekin.png)
+::: {.column width="40%"}
+![](images/Hodgekin.png){width="500"}
 :::
 
-::: {.column width="50%"}
-<br>
+::: {.column width="60%"}
+<br> <br>
 
 -   Dorothy Hodgkin, a crystallography expert at Oxford University, used X-rays to analyse the structure of various natural products 
 
@@ -319,11 +323,11 @@ Source: US National Library of Medicine
 Image source: Wikipedia
 :::
 
-## First reports of penicillin resistance
+## First reports of penicillin resistance {.smaller}
 
 <br>
 
-![](images/pcnr.png){fig-align="center"}
+![](images/pcnr.png){fig-align="center" width="600"}
 
 ::: aside
 [@abraham.chain_1940]
@@ -351,13 +355,13 @@ Image source: Wikipedia
 
 -   Bronzu performed epidemiological studies of typhoid infection in Cagliari, noted *Salmonella typhi* was not cultured once sewer water was discharged into the sea
 -   Isolated the mold *Cephalosporium* (now known as *Acremonium*) in 1948 from seawater
--   Noticed that these cultures produced substances (he named mycetin) that were effective against *Salmonella typhi*, the cause of typhoid fever, which had beta-lactamase.
+-   Noticed that these cultures produced substances (he named mycetin) that were effective against *Salmonella typhi*, the cause of typhoid fever, which had beta-lactamase
 -   After he failed to find support from Italian government, he sent the fungus to Howard Florey at Oxford
 -   1962: Isolation of cephalosporin C
 :::
 :::::
 
-## First effective therapies for tuberculosis
+## First effective therapies for tuberculosis {.smaller}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -365,12 +369,11 @@ Image source: Wikipedia
 :::
 
 ::: {.column width="50%"}
+<br> <br>
+
 -   Selman Waksman and his team discovered multiple antimicrobials in the 1940s, including actinomycin, streptomycin, and neomycin
-
 -   Their research focused on studying fungi and Actinobacteria, with a particular emphasis on soil bacteria belonging to the *Streptomyces* genus
-
 -   *Streptomyces* bacteria were found to naturally produce a wide range of antimicrobials, leading to the discovery of these important compounds
-
 -   **Wakesman is credited with introduction of the term “antibiotic”**
 :::
 :::::
@@ -391,7 +394,7 @@ Image source: Wikipedia
 
 <br> <br>
 
-![](images/void.png)
+![](images/void.png){fig-align="center" width="500"}
 
 ::: aside
 [@silver2011]
@@ -405,13 +408,13 @@ Empirical screening of fermentation broth was remarkably successful during the e
 
 ## Rediscovery of the old antibiotics through empiric screens becomes the biggest challenge
 
-![](images/dereplication.png)
+![](images/dereplication.png){fig-align="center"}
 
-## By the 1970’s antibiotic discovery began to shift from empirical to more “rationale” targeted approaches
+## 1970’s: The Shift from empirical to <br> “rational” discovery
 
 <br>
 
--   Attempts to overcome the increasing work of dereplication with fewer possibilities for novel compound discovery
+-   Attempts to overcome the increasing work of de-replication with fewer possibilities for novel compound discovery
 
 -   Initially based on the recognition that most useful antibiotics discovered to date targeted the cell wall or protein synthesis
 
@@ -431,9 +434,9 @@ As novel antibiotic discovery began to falter, modification of existing antibiot
 [@Wright2014]
 :::
 
-## β-lactamases
+## β-lactamase inhibitors {.smaller}
 
-![](images/beta-lactamases.png)
+![](images/beta-lactamases.png){fig-align="center" width="1000"}
 
 ## Macrolides and tetracyclines
 
@@ -455,11 +458,11 @@ As novel antibiotic discovery began to falter, modification of existing antibiot
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/science.png){width="400"}
+![](images/science.png){width="500"}
 :::
 
 ::: {.column width="50%"}
-![](images/sequencing.png){width="400"}
+![](images/sequencing.png){width="500"}
 :::
 :::::
 
@@ -615,16 +618,15 @@ Grey dots represent compounds in screening libraries
 Source: Carb-X
 :::
 
+## Antibiotic economic model: Netflix?
+<br>
+<br>
+
+[Netflix model for antibiotic funding: a financial times video](https://drive.google.com/file/d/1HbvhX5adY3eQ4wlrgCmW8khCUddmHPvX/view?usp=drive_link) 
 
 ## Subscription models: First approval in Italy
 
-![](images/ITA_subscription.png){fig-align="center"}
-=======
-## Antibiotic funding- Netflix model?
-
-<https://www.ft.com/video/adada10f-5747-4976-a3e0-958b0165e0ef>
-
-## Subscription models: First approval in Italy
+# ![](images/ITA_subscription.png){fig-align="center"}
 
 ## References
 
