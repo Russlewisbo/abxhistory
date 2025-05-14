@@ -615,9 +615,16 @@ Grey dots represent compounds in screening libraries
 Source: Carb-X
 :::
 
+
 ## Subscription models: First approval in Italy
 
 ![](images/ITA_subscription.png){fig-align="center"}
+=======
+## Antibiotic funding- Netflix model?
+
+<https://www.ft.com/video/adada10f-5747-4976-a3e0-958b0165e0ef>
+
+## Subscription models: First approval in Italy
 
 ## References
 
