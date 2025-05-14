@@ -157,9 +157,7 @@ Side effects attributed to Salvarsan, included rashes, liver damage, and risks o
 
 ::::: columns
 ::: {.column width="50%"}
-
-<br> <br>
-![](https://i.makeagif.com/media/7-05-2015/V0HT6G.gif)
+<br> <br> ![](https://i.makeagif.com/media/7-05-2015/V0HT6G.gif)
 :::
 
 ::: {.column width="50%"}
@@ -275,7 +273,7 @@ Images: Oxford university archive
 [@abraham.etal_1941]
 :::
 
-## Winston Churchill's life saved with sulfapyridine in 1943
+## Winston Churchill's life saved with <br> sulfapyridine in 1943
 
 <br> <br>
 
@@ -381,11 +379,7 @@ Image source: Wikipedia
 
 ![](images/Ringo.png){fig-align="center"}
 
-
-## Antibiotic discovery: The "Golden age"
-=======
 ## Antibiotic discovery: "The Golden Age"
-
 
 ![](images/timeline2.png){width="1800"}
 
@@ -549,11 +543,11 @@ Grey dots represent compounds in screening libraries
 
 ![](images/gramnegative.png)
 
-## How should we move forward? \[.smaller\]
+## How should we move forward? {.smaller}
 
 ::::: columns
 ::: {.column width="50%"}
-Targeted screening
+**Targeted screening**
 
 -   Specific inhibitors = rationale approach to develop still holds promise
 
@@ -571,7 +565,7 @@ Targeted screening
 :::
 
 ::: {.column width="50%"}
-Natural product screening
+**Natural product screening**
 
 -   Billions of natural selection have optimized structures for protein interactions and antimicrobial activity
 
@@ -620,6 +614,8 @@ Natural product screening
 ::: aside
 Source: Carb-X
 :::
+
+## Subsscription models: First approval in Italy
 
 ## References
 
