@@ -157,9 +157,7 @@ Side effects attributed to Salvarsan, included rashes, liver damage, and risks o
 
 ::::: columns
 ::: {.column width="50%"}
-
-<br> <br>
-![](https://i.makeagif.com/media/7-05-2015/V0HT6G.gif)
+<br> <br> ![](https://i.makeagif.com/media/7-05-2015/V0HT6G.gif)
 :::
 
 ::: {.column width="50%"}
@@ -382,7 +380,6 @@ Image source: Wikipedia
 ![](images/Ringo.png){fig-align="center"}
 
 ## Antibiotic discovery: "The Golden Age"
-
 
 ![](images/timeline2.png){width="1800"}
 
@@ -618,8 +615,9 @@ Grey dots represent compounds in screening libraries
 Source: Carb-X
 :::
 
-## Subsscription models: First approval in Italy
+## Subscription models: First approval in Italy
 
+![](images/ITA_subscription.png){fig-align="center"}
 
 ## References
 
