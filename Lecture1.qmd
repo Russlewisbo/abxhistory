@@ -21,15 +21,19 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Lecture 1: History of antibiotic therapy {background-video="images/background.mp4" background-opacity="0.3" background-video-loop="true"}
+## History and Future of Antibiotic Therapy {background-color="#9B0014"}
 
-<br> <br> <br> <br> <br>
+<center>
 
-**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
+Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of Padua
 
-![](images/unipd.png){.absolute top="550" left="950" width="100" height="100"}
+<br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} https://github.com/Russlewisbo <br> www.padovaid.com
 
-<br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
+</center>
+
+|  |  |
+|------------------------------------|------------------------------------|
+| ![](images/dmmunipd_logo.jpeg){width="100"} | ![](images/unipd_seal_white.svg){width="100"} |
 
 ## Objectives
 
@@ -44,10 +48,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 4.  Describe new economic approaches approaches to de-link antibiotic payments
 
 ## Appropriate perspective
-
-<br>
-
-<br>
 
 ![](images/spellber1.png){fig-align="center"}
 
@@ -83,8 +83,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br>
 
-<br>
-
 ::::: columns
 ::: {.column width="50%"}
 ![](images/actino.png){fig-align="center"}
@@ -96,8 +94,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 :::::
 
 ## Ancient antibiotic therapy
-
-<br>
 
 ::::: columns
 ::: {.column width="40%"}
@@ -119,7 +115,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 [@nelson.etal_2010c]
 
-## Paul Erlich (1854-1917) and the birth <br> of "modern" antibiotics {.smaller}
+## Paul Ehrlich (1854-1917) and the birth <br> of "modern" antibiotics {.smaller}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -130,12 +126,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 <br>
 
 -   Developed methods for staining tissue made it possible to distinguish between different types of blood cells, which led to the ability to diagnose numerous blood diseases → **"magic bullet hypothesis"**
-
--   First screening of chemical libraries to identify active antibacterial compounds (synthetic compounds)
-
--   First effective treatment for syphilis- arsphenamine (Salvarsan) 1909
-
--   Developed methods for staining tissue made it possible to distinguish between different types of blood cells, which led to the ability to diagnose numerous blood diseases
 
 -   First screening of chemical libraries to identify active antibacterial compounds (synthetic compounds)
 
@@ -157,7 +147,7 @@ Image: Wellcome Library, London
 ::: {.column width="50%"}
 <br> <br>
 
-Side effects attributed to Salvarsan, included rashes, liver damage, and risks of life and limb with extravasation, were thought to be caused by improper handling and administration of the relatively toxic-insoluble compound
+Side effects attributed to Salvarsan included rashes, liver damage, and risks of life and limb with extravasation- caused by improper handling and administration of the relatively toxic-insoluble compound
 :::
 :::::
 
@@ -173,7 +163,7 @@ Side effects attributed to Salvarsan, included rashes, liver damage, and risks o
 
 -   Fleming was skilled at administering Salvarsan to patients with syphilis, which led to a small but profitable practice
 -   During World War I, Fleming worked in a wound-research laboratory and discovered that chemical antiseptics do not sterilize jagged wounds, and pus has its own antibacterial powers
--   After the war, Fleming focused on studying leukocytes and antisepsis, and in 1921 he discovered lysozyme, a substance that causes bacteria to disintegrate, but its effectiveness was limited against disease-causing bacteria
+-   After the war, Fleming focused on studying leukocytes and antisepsis, and in 1921 he discovered **lysozyme**, a substance that causes bacteria to disintegrate- but its effectiveness was limited against disease-causing bacteria
 :::
 :::::
 
@@ -209,7 +199,7 @@ Side effects attributed to Salvarsan, included rashes, liver damage, and risks o
 
 <br>
 
--   Prontosil metabolized to sulfanilamide *in vivo,* initially found to be inactive in microbiological assays
+-   Prontosil- metabolized to sulfanilamide *in vivo,* initially found to be inactive in microbiological assays
 -   Among the early patients was Domagk’s own 6-year-old daughter, Hildegard, who had contracted a severe streptococcal cellulitis from an accident with a sewing needle
 -   Utterly desperate when the doctor recommended amputation to save his daughter’s life, Domagk treated Hildegard with Prontosil
 -   Hildegard recovered, but suffered a permanent reddish discolouration of her skin owing to the drug
@@ -217,8 +207,6 @@ Side effects attributed to Salvarsan, included rashes, liver damage, and risks o
 :::::
 
 ## Florey, Chain and Heatley: <br>"Rediscovery" and purification of penicillin
-
-<br>
 
 ![](images/Florey.png)
 
@@ -246,8 +234,8 @@ Images: Welcome collection
 ::: {.column width="50%"}
 <br>
 
--   It was difficult to ferment enough crude peniciilin and to gain samples with few impurities
--   Heatley’s inventiveness shown both in this device and in his design of a dish to grow the mould at an experimental scale was of great importance to the development of penicillin
+-   It was difficult to ferment enough crude peniciilin
+-   Heatley’s inventiveness shown both in this device and in his design of a dish to grow the mould at an experimental scale allowed early clinical studies
 :::
 :::::
 
@@ -361,7 +349,7 @@ Image source: Wikipedia
 ::: {.column width="60%"}
 <br>
 
--   Bronzu performed epidemiological studies of typhoid infection in Cagliari, noted *Salmonella typhi* was not cultured once sewer water was discharged into the sea
+-   Bronzu performed epidemiological studies of typhoid infection in Cagliari,- he noted *Salmonella typhi* was not cultured once sewer water was discharged into the sea
 -   Isolated the mold *Cephalosporium* (now known as *Acremonium*) in 1948 from seawater
 -   Noticed that these cultures produced substances (he named mycetin) that were effective against *Salmonella typhi*, the cause of typhoid fever, which had beta-lactamase
 -   After he failed to find support from Italian government, he sent the fungus to Howard Florey at Oxford
@@ -430,8 +418,6 @@ Empirical screening of fermentation broth was remarkably successful during the e
 
 ## 1980s-1990s {.smaller}
 
-<br> <br>
-
 As novel antibiotic discovery began to falter, modification of existing antibiotic scaffolds (pharmacophore) to overcome resistance became a dominant strategy for bringing “new” antibiotics to market
 
 <br>
@@ -478,17 +464,15 @@ As novel antibiotic discovery began to falter, modification of existing antibiot
 [@fleischmann1995]
 :::
 
-## ...but the crises still got worse {.smaller}
+## ...but the crises continued {.smaller}
 
-![](images/void.png){width="600"}
+<center>![](images/void.png){width="600"}</center>
 
 ::: aside
 [@silver2011]
 :::
 
 ## Why has biotechnology failed to deliver new antibiotics?
-
-<br>
 
 ![](images/payne.png){fig-align="center" width="500"}
 
@@ -498,7 +482,7 @@ As novel antibiotic discovery began to falter, modification of existing antibiot
 
 ## Problems with targeted antibiotic screening <br>in the 1990s and early 2000s {.smaller}
 
-<br> <br>
+<br>
 
 -   Bias to towards identification of single target inhibitors (high risk of rapid resistance development)
 
@@ -556,8 +540,6 @@ Grey dots represent compounds in screening libraries
 
 ## How should we move forward? {.smaller}
 
-<br>
-
 ::::: columns
 ::: {.column width="50%"}
 **Targeted screening**
@@ -566,13 +548,13 @@ Grey dots represent compounds in screening libraries
 
 -   Massive advances in synthetic biology (combinatorial biosynthesis, pathways engineering)
 
--   Development of new “antibiotic-like” chemical scaffolds <br> for screening
+-   Development of new “antibiotic-like” chemical scaffolds for screening
 
 -   Experience gained from 30 years of failure:
 
-    -   Knowledge of factors influencing bacterial cell penetration, transport, cellular efflux and protein binding is increasing rapidly- new rules similar to Lipinski 5 to help guide drug design
+    -   Bacterial cell penetration, transport, cellular efflux and protein binding is increasing rapidly
 
-    -   Use of more “druggable” libraries and combinatorial libraries that mimic natural products
+    -   Use of more “druggable” chemical libraries
 
     -   Genetic modification of biosynthetic gene clusters in natural sources (i.e. actinomycetes)
 :::
@@ -628,11 +610,15 @@ Grey dots represent compounds in screening libraries
 Source: Carb-X
 :::
 
-## Antibiotic economic model: Netflix?
+## Antibiotic economic model: Pull incentives
 
-<br> <br>
+<br>
 
-[Netflix model for antibiotic funding: a financial times video](https://drive.google.com/file/d/1HbvhX5adY3eQ4wlrgCmW8khCUddmHPvX/view?usp=drive_link)
+<center>
+
+![](images/netflix.png){fig-align="center"}
+
+</center>
 
 ## Subscription models: First approval in Italy
 
