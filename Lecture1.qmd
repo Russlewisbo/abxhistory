@@ -121,7 +121,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Paul Erlich (1854-1917) and the birth <br> of "modern" antibiotics {.smaller}
 
-<br>
 
 ::::: columns
 ::: {.column width="50%"}
