@@ -21,7 +21,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## History and Future of Antibiotic Therapy {background-color="#9B0014"}
+## fHistory and Future of Antibiotic Therapy {background-color="#9B0014"}
 
 <center>
 
@@ -614,11 +614,7 @@ Source: Carb-X
 
 <br>
 
-<center>
-
-![](images/netflix.png){fig-align="center"}
-
-</center>
+<center>![](images/netflix.png){fig-align="center"}</center>
 
 ## Subscription models: First approval in Italy
 

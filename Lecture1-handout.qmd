@@ -1,0 +1,369 @@
+---
+title: "History and Future of Antibiotic Therapy"
+subtitle: "Lecture 1 Handout"
+author: "Prof. Russell E. Lewis, Department of Molecular Medicine, University of Padua"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    number-sections: true
+    theme: cosmo
+    fontsize: 1.05em
+    linestretch: 1.6
+    smooth-scroll: true
+    code-fold: true
+    self-contained: true
+bibliography: references.bib
+csl: diagnostic-microbiology-and-infectious-disease.csl
+lightbox: true
+---
+
+## Learning Objectives
+
+1. Describe key individuals in the history of antibiotic discovery from the "empiric" versus "rational" schools
+2. Recognize major factors that have led to a decrease in antibiotic discovery since the 1980s
+3. Discuss key reasons why advances in medical biotechnologies have not led to major advances in antibiotics
+4. Describe new economic approaches to de-link antibiotic payments
+
+---
+
+## Appropriate Perspective: Humans Did Not Invent Antibiotics
+
+![Antibiotic resistance predates human use of antibiotics. Microbes have been producing and encountering antimicrobial compounds for billions of years.](images/spellber1.png){fig-align="center" width="80%"}
+
+Microbes have been on Earth far longer than humans. They far outweigh us in biomass and reproduce much faster. Their experience with antibiotics far predates human therapeutic use. Antimicrobial resistance and the use of antibiotics existed long before we started using these drugs therapeutically [@spellberg.etal_2008c].
+
+### Antimicrobial Use: Bacteria vs. Humans
+
+![Comparison of antimicrobial use by bacteria versus humans.](images/bugvman.png){fig-align="center" width="600"}
+
+**Bacteria** use antibiotics as part of a competitive strategy in the environment — secreting very small amounts, targeted to specific circumstances, over distances of a millionth of a meter or less, with minimal environmental exposure and selective pressure.
+
+**Humans**, by contrast, use milligrams to grams per day. In animal food production and environmental waste, thousands of kilograms of antibiotics may enter the environment, creating considerable selective pressure for resistant organisms that previously did not exist.
+
+### Chemical Warfare in Nature
+
+Antibiotics have arisen through chemical warfare in nature. Among the most prolific natural sources are the **actinomycetes** — soil bacteria that produce a wide range of chemical substances interfering with biological processes in competing organisms. Fungi such as *Penicillium*, growing on rotting fruit, are another major source of antimicrobial compounds.
+
+![Actinomycetes and Penicillium — prolific natural antibiotic producers.](images/actino.png){fig-align="center" width="50%"}
+
+---
+
+## Ancient Antibiotic Therapy
+
+![Ancient antimicrobial practices predated modern medicine.](images/acient.png){fig-align="center" width="300"}
+
+Antibiotic therapy as a therapeutic approach has ancient roots:
+
+- **China**: Moldy tofu was used to treat skin inflammation and infections
+- **Egypt**: Moldy bread (*Aish baladi*) was used to treat skin lesions
+- **Greece**: Myrrh, wine, honey or caustic substances were used to treat wound infections
+
+### Egyptians Made Tetracycline Beer
+
+![Evidence of tetracycline in ancient Sudanese Nubian skeletal remains, 350–550 CE.](images/nubians.png){fig-align="center" width="600"}
+
+Ancient Egyptians in the Sudanese Nubian area brewed beer contaminated with *Streptomyces* that produced tetracycline. Analysis of skeletal remains confirmed high tetracycline concentrations in bones from inhabitants dating to 350–550 CE [@nelson.etal_2010c].
+
+---
+
+## Paul Ehrlich (1854–1917): The Birth of Modern Antibiotics
+
+![Paul Ehrlich — pioneer of the "magic bullet" hypothesis.](images/Erlich1.png){fig-align="center" width="50%"}
+
+Paul Ehrlich developed methods for staining tissues with specific chemicals, enabling the distinction between different types of blood cells. This led him to the **"magic bullet" hypothesis**: if certain cells could be selectively stained, perhaps bacteria could also be selectively targeted and killed.
+
+He undertook a vast screening program of chemical libraries — synthetic compounds — to identify active antimicrobial agents. After screening over 600 compounds, this rational approach led to the discovery of **arsphenamine (Salvarsan)** in 1909, the first effective treatment for syphilis caused by *Treponema pallidum*.
+
+### Salvarsan: Promising but Toxic
+
+![Salvarsan administration and its complications.](images/salvarsan.png){fig-align="center" width="50%"}
+
+Salvarsan had to be reconstituted before administration, and its efficacy depended heavily on the skill of the physician. Side effects included rashes, liver damage, and risk of severe tissue injury with extravasation due to improper handling.
+
+---
+
+## Alexander Fleming (1881–1955): The Serendipitous Discovery
+
+Fleming was a physician skilled at administering Salvarsan to syphilis patients. During World War I, he worked in a wound-research laboratory and discovered that chemical antiseptics failed to sterilize jagged wounds, while pus itself had its own antibacterial properties. In 1921, he discovered **lysozyme**, an enzyme in tears and secretions that causes bacteria to disintegrate, though its effectiveness against disease-causing bacteria was limited.
+
+### Discovery of Penicillin
+
+![Fleming's original observation of Penicillium mold inhibiting Staphylococcus on agar plates.](images/pcn1.png){fig-align="center" width="45%"}
+
+![Fleming's publication on the antibacterial action of Penicillium.](images/pcn2.png){fig-align="center" width="45%"}
+
+Fleming's serendipitous discovery came when a colony on an agar plate became contaminated with *Penicillium* mold. In the zone around the mold, staphylococci were undergoing lysis. He named the active substance **penicillin**, but could not purify enough to develop it as a therapeutic agent [@fleming_1929].
+
+---
+
+## Gerhard Domagk (1895–1964): Discovery of Sulfonamides
+
+![Gerhard Domagk — discoverer of Prontosil and the sulfonamide class.](images/Domagk.png){fig-align="center" width="40%"}
+
+Following Ehrlich's approach of screening dye-industry chemicals, Domagk and colleagues at Bayer Pharmaceuticals discovered **Prontosil**, a compound metabolized *in vivo* to sulfanilamide. It was initially found inactive in test tube assays but effective in animal models — demonstrating the importance of *in vivo* metabolism.
+
+Among the early patients was Domagk's own six-year-old daughter Hildegard, who had contracted a severe streptococcal cellulitis. When amputation was recommended, Domagk treated her with Prontosil. She recovered, but suffered permanent reddish skin discoloration from the drug.
+
+---
+
+## Florey, Chain, and Heatley: Purification of Penicillin
+
+![Howard Florey, Ernst Boris Chain, and Norman Heatley — the team that purified penicillin for clinical use.](images/Florey.png){fig-align="center" width="80%"}
+
+Unlike Fleming, the team at Oxford — biochemist **Ernst Chain** and **Norman Heatley** working under **Howard Florey** — was able to purify penicillin in sufficient quantities for animal studies and early clinical trials [@lobanovska.pilla_2017a].
+
+### First Animal Testing
+
+![First animal testing of penicillin showed dramatic survival differences.](images/penicllinpots.png){fig-align="center" width="80%"}
+
+Animals treated with penicillin (5–10 mg) showed near-complete survival, while untreated controls died within 12–16 hours of infection.
+
+### The Challenge of Production
+
+![Heatley's innovative fermentation apparatus.](images/heatleys_fermenter.png){fig-align="center" width="50%"}
+
+Producing enough penicillin was a major challenge during wartime. Heatley devised an inventive fermentation apparatus using incubation flasks similar to bedpans, enabling enough crude penicillin for early clinical studies.
+
+### First Trials in Patients
+
+![The first patient treated with penicillin — a policeman with severe facial infection.](images/firstpatient.png){fig-align="center" width="80%"}
+
+The first patient was a policeman with severe facial cellulitis caused by *Staphylococcus aureus* and *Streptococcus pyogenes*. After sulfa drugs failed, intravenous penicillin (200 mg, then 100 mg every 3 hours) produced a striking clinical improvement. Unfortunately, the penicillin supply was exhausted, the infection relapsed, and the patient died [@abraham.etal_1941].
+
+### Clinical Response to Penicillin
+
+![Temperature chart and clinical response of the first penicillin patient.](images/response1.png){fig-align="center" width="600"}
+
+![Clinical response data from early penicillin trials.](images/response2.png){fig-align="center" width="80%"}
+
+This experience demonstrated the power of antibiotics but also highlighted the urgent need for scaled production. Future trials focused on pediatric patients, where lower doses could be used.
+
+---
+
+## Churchill Saved by Sulfonamides (1943)
+
+![Winston Churchill's pneumonia was treated with sulfapyridine during WWII.](images/churchill.png){fig-align="center" width="60%"}
+
+During World War II, Winston Churchill developed pneumonia and was treated effectively with sulfapyridine — a drug developed by the Germans.
+
+---
+
+## Industrial-Scale Penicillin Production
+
+![US pharmaceutical industry scaling penicillin production during WWII.](images/US1.png){fig-align="center" width="45%"}
+
+![Mass production facilities for penicillin in the United States.](images/US2.png){fig-align="center" width="45%"}
+
+Florey and Heatley traveled to the United States and persuaded the pharmaceutical industry to mass-produce penicillin. This enabled clinical trials and wartime use, though the patent had to be shared among multiple companies. Oxford University received no royalties for the discovery.
+
+---
+
+## Structure of Penicillin
+
+![Dorothy Hodgkin used X-ray crystallography to determine the structure of penicillin.](images/Hodgekin.png){fig-align="center" width="40%"}
+
+**Dorothy Hodgkin**, a crystallography expert at Oxford, determined the structure of penicillin in 1946 using X-ray crystallography — work that earned her the **Nobel Prize in Chemistry in 1964**. Knowledge of the structure enabled scientists to create semisynthetic penicillins with broader spectrum, increased stability, and reduced toxicity.
+
+---
+
+## First Reports of Penicillin Resistance
+
+![Abraham and Chain reported penicillin-destroying enzymes (β-lactamase) in 1940.](images/pcnr.png){fig-align="center" width="600"}
+
+Even before penicillin was widely used, Abraham and Chain reported that *Staphylococcus aureus* strains could produce an enzyme (penicillinase/β-lactamase) that destroyed penicillin [@abraham.chain_1940]. This foreshadowed a recurring pattern in antibiotic therapy.
+
+### Repeating History: Resistance Follows Introduction
+
+![Timeline showing that antibiotic resistance has followed every new antibiotic introduction.](images/timeline.png){fig-align="center" width="80%"}
+
+Throughout history, resistance has emerged after each new antibiotic class was introduced, often within just a few years [@spagnolo.etal_2021].
+
+---
+
+## Discovery of Cephalosporins
+
+![Giuseppe Brotzu — discoverer of cephalosporins from seawater mold.](images/Bronzu.png){fig-align="center" width="40%"}
+
+**Giuseppe Brotzu** was an epidemiologist studying typhoid in Cagliari, Sardinia. He noticed that *Salmonella typhi* was no longer culturable once sewage was discharged into the sea. He isolated the mold *Cephalosporium* (now *Acremonium*) from seawater in 1948 and found it produced substances (named "mycetin") active against *S. typhi* — which was resistant to penicillin due to β-lactamase production.
+
+After failing to find Italian government support, Brotzu sent the fungus to Howard Florey at Oxford, leading to the isolation of **cephalosporin C** in 1962 and a whole new class of antibiotics.
+
+---
+
+## Selman Waksman and the Discovery of Streptomycin
+
+![Selman Waksman and team — discoverers of streptomycin from soil bacteria.](images/Wakesman.png){fig-align="center" width="50%"}
+
+**Selman Waksman** and his team at Rutgers discovered multiple antimicrobials in the 1940s — including actinomycin, streptomycin, and neomycin — by screening soil bacteria from the genus *Streptomyces*. Waksman is also credited with coining the term **"antibiotic"**.
+
+Streptomycin was the **first effective drug against tuberculosis**, which previously was treated only by sanatoriums. Notably, one of the first children treated with streptomycin in England was **Ringo Starr**, who learned to play the drums during music therapy while recovering in a sanatorium.
+
+![TB sanatoriums and the impact of effective antibiotic therapy.](images/Ringo.png){fig-align="center" width="70%"}
+
+---
+
+## The Golden Age of Antibiotics
+
+![Timeline of antibiotic discovery — the "Golden Age" of the 1940s–1960s.](images/timeline2.png){fig-align="center" width="90%"}
+
+The 1940s through 1960s represented a golden age of antibiotic discovery, with systematic screening of soil organisms and natural products yielding compounds effective against many common pathogens [@milgroom_2023].
+
+---
+
+## The Crisis in New Antibiotic Development
+
+![The discovery void — no new antibiotic classes from the late 1980s to early 2000s.](images/void.png){fig-align="center" width="600"}
+
+Beginning in the late 1980s, new antibiotic discovery entered a prolonged void, with no truly novel antibiotic classes being discovered for decades [@silver2011].
+
+### Why Has Antibiotic Discovery Faltered?
+
+![Empirical screening picked the "low-hanging fruit" first.](images/lowfruit.png){fig-align="center" width="80%"}
+
+Empirical screening of natural products was remarkably successful early on, but over time, the same antibiotics kept being rediscovered. This **dereplication problem** became increasingly expensive and time-consuming.
+
+![The dereplication challenge — rediscovering known antibiotics.](images/dereplication.png){fig-align="center" width="80%"}
+
+---
+
+## The Shift from Empirical to Rational Discovery (1970s onward)
+
+Two parallel strategies emerged:
+
+**1. Modification of existing scaffolds** — Chemically altering known antibiotics to overcome resistance became a dominant strategy. This produced successive generations of cephalosporins, β-lactamase inhibitors, macrolides, tetracyclines, and fluoroquinolones.
+
+### Cephalosporin Generations
+
+![Evolution of cephalosporin scaffolds to overcome resistance.](images/cephalosporins.png){fig-align="center" width="80%"}
+
+Modification of the cephalosporin scaffold produced first through fourth generation drugs, each with incremental improvements in spectrum, stability, and pharmacokinetics [@Wright2014].
+
+### β-Lactamase Inhibitors
+
+![Development of β-lactamase inhibitors to combat resistance.](images/beta-lactamases.png){fig-align="center" width="80%"}
+
+The development of clavulanic acid, tazobactam, sulbactam, and newer inhibitors targeting carbapenemases (avibactam, relebactam, vaborbactam) represents a strategy to reinvigorate existing drugs against resistant pathogens.
+
+### Macrolides and Tetracyclines
+
+![Structural modifications of macrolide and tetracycline scaffolds.](images/tetracyclines.png){fig-align="center" width="80%"}
+
+After erythromycin, modifications produced clarithromycin and azithromycin. Newer agents like tigecycline were designed to overcome major resistance mechanisms such as efflux and altered ribosomal binding [@Wright2014].
+
+### Fluoroquinolones
+
+![Evolution of the fluoroquinolone class.](images/fluoroquinolones.png){fig-align="center" width="80%"}
+
+Fluoroquinolones underwent extensive modification, though some later-generation agents were removed from the market due to limited clinical benefit and toxicity concerns (QT prolongation, hepatotoxicity) [@Wright2014].
+
+---
+
+## Genomics and Targeted Screening (1990s–2000s)
+
+**2. Rational, target-based discovery** — The sequencing of the *Haemophilus influenzae* genome in 1995 was expected to revolutionize antibiotic discovery by revealing novel bacterial targets not present in humans [@fleischmann1995].
+
+![Publication of the first complete bacterial genome sequence.](images/science.png){fig-align="center" width="35%"}
+
+### Why Has Biotechnology Failed to Deliver?
+
+![GlaxoSmithKline's decade-long genomics-based antibiotic discovery program yielded no new drugs.](images/payne.png){fig-align="center" width="500"}
+
+A landmark paper from GlaxoSmithKline described their investment of millions of dollars evaluating over 300 gene targets and conducting 70 high-throughput screening campaigns over seven years — discovering no new antibiotics [@payne2007].
+
+**Key problems with targeted screening:**
+
+- Bias toward single-target inhibitors with high risk of rapid resistance development
+- Bias toward eukaryotic (human) targets leading to off-target toxicity
+- Chemical screening libraries dominated by lipophilic compounds lacking structural diversity needed for antibiotics
+- Whole-cell screens identified detergent-like compounds; cell-free screens found target inhibitors with no whole-cell activity
+- Screens rarely identified compounds with Gram-negative activity
+- The fundamental problem: compound libraries did not reflect the unique physicochemical properties of known antibacterial agents
+
+### It Is Difficult to Improve on Nature
+
+![Vancomycin's densely deployed functional groups allow maximal interactions with its molecular target.](images/vancomycin.png){fig-align="center" width="70%"}
+
+Natural antibiotics like vancomycin feature densely deployed functional groups optimized over billions of years of evolution for exquisite selectivity against pathogen targets.
+
+### Searching the Wrong Physicochemical Space
+
+![Screening library compounds (grey dots) occupy different physicochemical space than known antibiotics (colored symbols).](images/physiochemical.png){fig-align="center" width="80%"}
+
+Known antibacterial agents occupy a distinct physicochemical space compared to typical pharmaceutical screening libraries [@OShea2008].
+
+![The required physicochemical properties vary by pathogen, especially for Gram-negatives.](images/logd.png){fig-align="center" width="80%"}
+
+The physicochemical properties required vary considerably between pathogens. Gram-negatives typically require more hydrophilic compounds, and even the optimal hydrophilicity differs between species like *Klebsiella pneumoniae* and *Pseudomonas aeruginosa* [@brown2014].
+
+### The Gram-Negative Challenge
+
+![The complex outer membrane of Gram-negative bacteria presents unique barriers to antibiotic penetration.](images/gramnegative.png){fig-align="center" width="80%"}
+
+Gram-negative bacteria possess a complex outer membrane that excludes hydrophobic compounds. Drugs must enter through porins, avoid efflux pumps, and traverse the periplasm — making drug design exceptionally challenging. This is also why few orally bioavailable anti-Gram-negative drugs exist (fluoroquinolones being a notable exception).
+
+---
+
+## Moving Forward: Dual Strategies
+
+### Targeted Screening — Renewed Promise
+
+- Specific inhibitors and new β-lactamase inhibitors remain a rational and promising approach
+- Massive advances in synthetic biology (combinatorial biosynthesis, pathway engineering)
+- Development of new "antibiotic-like" chemical scaffolds for screening
+- 30 years of lessons learned: better understanding of cell penetration, transport, efflux, and the need for more "druggable" chemical libraries
+
+### Natural Product Screening — Revisiting the Source
+
+- Billions of years of natural selection have optimized structures for antimicrobial activity
+- **Less than 1% of prokaryotic and 7% of fungal strains have been isolated and cultured** — a vast untapped reservoir
+- Natural products often inhibit multiple targets simultaneously due to their structural density
+- More efficient methods for isolation and dereplication now exist
+
+### Alternative Strategies
+
+![Bacteriophage — one of several alternative antimicrobial strategies under investigation.](images/phage.jpg){fig-align="center" width="50%"}
+
+Emerging alternatives include:
+
+- Antimicrobial peptides (AMPs)
+- Monoclonal antibodies (MAbs)
+- Antibody-antibiotic conjugates
+- Bacteriophages
+- Antisense-based antimicrobials (ASOs)
+- Vaccination and immunotherapy
+
+---
+
+## The Remaining Problem: Economics
+
+![Antibiotic development failure rates and timelines make discovery financially unsustainable.](images/failure.png){fig-align="center" width="80%"}
+
+Developing an antibiotic takes 10–15 years from discovery to patients, with a failure rate exceeding 95% and costs over $1 billion. Many pharmaceutical companies have exited antibiotic development because even successful drugs are often shelved to preserve efficacy — destroying return on investment.
+
+### Pull Incentives: The "Netflix" Model
+
+![A subscription-based model for antibiotic payments — paying for availability rather than volume.](images/netflix.png){fig-align="center" width="70%"}
+
+A proposed solution is to **delink antibiotic payments from sales volume** — paying companies for developing antibiotics regardless of use, similar to a Netflix subscription. This ensures availability when needed.
+
+### Subscription Models: Italy Leads the Way
+
+![Italy has approved early subscription models for access to newer antibiotics.](images/ITA_subscription.png){fig-align="center" width="80%"}
+
+The Italian government has approved some of the first subscription-based models, ensuring continued access to newer antibiotics while providing financial sustainability for manufacturers.
+
+---
+
+## Summary
+
+The parallel problems of increasing antibiotic resistance and declining novel antibiotic development represent a growing health crisis. Two schools of antibiotic discovery — **empirical** and **rational** — each have their proponents, advantages, and limitations. Despite transformative biotechnological advances, these have largely failed to deliver new antibiotics, especially for Gram-negative pathogens. Fixing the economics of antibiotic discovery and development, through models like subscription-based payments, will be essential to ensure antibiotics remain available for future generations.
+
+---
+
+## References
+
+::: {#refs}
+:::
