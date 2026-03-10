@@ -21,7 +21,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## fHistory and Future of Antibiotic Therapy {background-color="#9B0014"}
+## History and Future of Antibiotic Therapy {background-color="#9B0014"}
 
 <center>
 
